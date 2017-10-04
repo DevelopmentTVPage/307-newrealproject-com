@@ -1,0 +1,15 @@
+{
+    "title": "Real Project",
+    "baseURL": "https:\/\/newrealproject.com\/testing",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/testing",
+        "firstpartycookies": true,
+        "cookiedomain": "newrealproject.com"
+    }
+}
